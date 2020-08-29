@@ -3,7 +3,8 @@
 
 ## Introduction
 
-I've spent the past 3 years help Data Scientists and Developers navigate the vast land  evaluate and utilize
+The current job environment can be difficult to naviagate, and Data Scientists have not been immune to significant changes this year. However, the field continues to progress. Regardless of your current professional situation, there's no such thing as staying still. If you a machine learing developer or data scientist in the unfortuante position to have lost your job during the pandemic and are not working to improve your skills in these areas, you are absolutely getting passed by.
+I've spent the past 3 years helping Data Scientists and Developers navigate the vast land cloud and open source machine learning development tools, and wanted to recommend a workflow that enables end-to-end machine learning with a couple of services, all of which are free, to help keep skills sharp .
 
 ## Object Storage 
 Object storage is critcal to machine learning development, and provides a place to store training, test, and validation data sets as well as pretrained and fine-tuned models. It's also a huge revenue generator for cloud companies, as AWS' S3 is reported by numerous sources as the most popular service for the multi, multi billion dollar organization, so finding persistent and unlimited cloud object storage is quite difficult, but not impossible. 
@@ -19,9 +20,9 @@ W&B Sweeps
 
 ### Model Libraries and Deployment -- Hugging Face
 
-## Model Deployment
 Algorithmia
 Like Weights and Biases, Algorithmia will provide metrics model deployment monitoring
+
 
 ## Wrapup
 A demonstration of all these tools working in concert can be found here.For more help AI+
