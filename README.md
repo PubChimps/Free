@@ -3,7 +3,6 @@
 
 ## Introduction
 
-approach 1 - 
 Keeping up with Data Science's intense pace of innovation is difficult for all of us. This problem is only compounded with the lose of a job, which comes with the loss of business problems to apply data science and machine learning to as well as the enterprise development tools ultilized in order to do so. However, the field continues to progress. Regardless of your current professional situation, there's no such thing as staying still. If you are a machine learing developer or data scientist in the unfortuante position to have lost your job during the pandemic and are not working to improve your skills in these areas, you are absolutely getting passed by.
 I've spent the past 3 years helping Data Scientists and Developers navigate the vast land cloud and open source machine learning development tools, and wanted to recommend a workflow that enables end-to-end machine learning with a couple of services, all of which are free, to help keep skills sharp .
 
