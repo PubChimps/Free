@@ -16,7 +16,7 @@ Hyperparameter optimization allows developers to vary aspects of a model in orde
 
 | ![w&b.jpg](images/w&b.jpg) | 
 |:--:| 
-| *Weights and Biases managing a hyperparameter optimization session and tracking its metrics* |
+| *Weights and Biases is a free tool that can manage hyperparameter optimizations and track model training metrics* |
 
 ## Model Libraries and Deployment
 Model registries, repositories, and libraries help fast track end-to-end machine learning development by providing pretrained models and other utilites that can be fine-tuned towards a specific task. [Hugging Face's Transformers library](https://github.com/huggingface/transformers/) provides a great set of models and preprocessing tokenizers for use in natural language processing. State-of-the-art performance can be acheived in a number of NLP tasks with Transformers in as few as [two lines of code](https://huggingface.co/transformers/main_classes/pipelines.html), or completely customizable into larger machine learning pipelines with TFTrainer and PyTorch Lightening support.
